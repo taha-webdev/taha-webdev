@@ -111,10 +111,10 @@
 
 <p align="center">
 <a href="https://github.com/taha-webdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wajeeh-Haider&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wajeeh-haider&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taha-webdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taha-webdev&layout=compact&langs_count=8&theme=dark"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wajeeh-Haider&show_icons=true&locale=en&layout=demo&theme=dark" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=taha-webdev&show_icons=true&locale=en&layout=demo&theme=dark" />
 </p>
 </p>
 <br>
@@ -139,21 +139,21 @@
 
 ## 🐛Github Magic Game
 <p align="center">
-<img src="https://github.com/Wajeeh-Haider/Wajeeh-Haider/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/taha-webdev/taha-webdev/blob/output/github-contribution-grid-snake.svg" />
 </p>
 <br>
 
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p align="center">
-<a href="https://github.com/Wajeeh-Haider" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wajeeh-Haider&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+<a href="https://github.com/taha-webdev" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=taha-webdev&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 </a>
 </p>
 
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/Wajeeh-Haider/count.svg" />
+  <img src="https://profile-counter.glitch.me/taha-webdev/count.svg" />
 </p>
 
 
