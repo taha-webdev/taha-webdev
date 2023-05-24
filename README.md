@@ -6,10 +6,8 @@
 <a href="https://github.com/taha-webdev"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Skill+Trainer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
   </p>
 
-### 👨‍💻 Skill Trainer at House of Professionals
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Passionate about teaching and inspiring students; taught over 100.
 - 🥅 2023-24Goals: Contribute more to Open Source projects and execute innovative ideas.
 - 💎 Let's connect if you're a tech enthusiast!  
  
