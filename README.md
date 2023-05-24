@@ -43,34 +43,31 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+    </td>
+<td align='center'>
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
+    </td>
+<td align='center'>
+       	<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
 </tr>
  
 <tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+ <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="80">
     </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+ <td align='center'>
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+<td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="80">
     </td>
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="80">
-    </td>
-</tr>
- 
-<tr>
-  <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-    <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="80">
     </td>
 </tr>
     
