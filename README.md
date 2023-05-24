@@ -48,15 +48,6 @@
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
-	 <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="80">
-    </td>
-	 <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="80">
-    </td>
-<td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="80">
-    </td>
 </tr>
  
 <tr>
@@ -69,24 +60,12 @@
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
-     <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-    </td>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="80">
     </td>
 </tr>
  
 <tr>
-    <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="80">
-    </td>
- <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
   <td align='center'>
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
